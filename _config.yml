@@ -1,0 +1,12 @@
+layout_spectrum: 1
+typography_spectrum: 0.8082438
+color:
+  saturation: 0.304872
+  lightness: 0.6666352
+  brandStrength: 0.5053763
+  brandColors:
+    - '#BDC7CF'
+    - '#918877'
+    - '#776654'
+  rhythmicContrast: 0.7982065
+name: diPraga.com
